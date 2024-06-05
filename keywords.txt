@@ -1,0 +1,30 @@
+###########################################
+# Syntax Coloring Map For I2C_LiquidCrystal_RUS
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+I2C_LiquidCrystal_RUS	KEYWORD1
+I2C_LiquidCrystal_RUS_ALL	KEYWORD1
+_LCD_TYPE KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+print KEYWORD2
+clear KEYWORD2
+setCursor KEYWORD2
+getCursorCol  KEYWORD2
+getCursorRow  KEYWORD2
+ascii_win1251 KEYWORD2
+ascii_utf8  KEYWORD2
+ResetAllIndex  KEYWORD2
+wStrlen KEYWORD2
+
+###########################################
+# Constants (LITERAL1)
+###########################################
+
